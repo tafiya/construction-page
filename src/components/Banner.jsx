@@ -3,7 +3,7 @@ import { MdOutlineKeyboardDoubleArrowRight } from "react-icons/md";
 const Banner = () => {
     return (
         <div
-        className="hero h-[250px] "
+        className="hero md:h-[250px] "
         style={{
             backgroundImage: "url('/image/Background image 1.jpg')",
           }}>

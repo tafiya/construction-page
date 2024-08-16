@@ -8,7 +8,7 @@ import { FaTelegramPlane } from 'react-icons/fa';
 const Footer = () => {
   return (
     <div className='bg-primary'>
-      <footer className="footer border-b-2 max-w-[1400px] mx-auto font-light text-white py-10 gap-6">
+      <footer className="footer md:p-0 p-2 border-b-2 max-w-[1400px] mx-auto font-light text-white py-10 gap-6">
         <div className='w-96'>
           <Image
             src="/Icon/Logo.jpg"
@@ -66,7 +66,7 @@ const Footer = () => {
           
             <div>
 
-              <p>Bucureşti Sectorul 1, Strada ING.
+              <p>Bucureşti Sectorul 1, Strada ING.<br></br>
                 ZABLOVSCHI, Nr. 10, BIROUL 1</p>
             </div>
 
@@ -97,7 +97,7 @@ const Footer = () => {
         </div>
 
       </footer>
-      <footer className="footer max-w-[1400px] mx-auto text-white  py-4">
+      <footer className="footer md:p-0 p-2  max-w-[1400px] mx-auto text-white  py-4">
         <aside className="grid-flow-col items-center">
           <p>
           © Copyright 2024 “Hire & Fire” All Rights Reserved.
