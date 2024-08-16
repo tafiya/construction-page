@@ -7,8 +7,8 @@ const Hiring = () => {
                 <h1 className="text-4xl text-center font-semibold">Benefits of Hiring Through Us
                 </h1>
                 <div className='flex items-center justify-center '>
-                    <p className=" my-6 text-center  w-[700px]">"Benefit from our efficient hiring process, matching qualified candidates to your construction
-                    projects, ensuring quality and reliability."</p>
+                    <p className=" my-6 text-center  w-[700px]">Benefit from our efficient hiring process, matching qualified candidates to your construction
+                    projects, ensuring quality and reliability.</p>
                 </div>
                 <div class="grid grid-cols-1 md:grid-cols-4 gap-4 my-24 justify-center items-center">
                     <div className="card px-1 bg-white border-b-8 border-secondary shadow-xl  text-black ">
